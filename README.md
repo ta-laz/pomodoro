@@ -18,7 +18,7 @@ The goal of the project was to practise Compose UI, navigation, and state manage
 - **Automatic switching** between Pomodoro ↔ Short Break  
 - **Custom Timer** where you enter your own minutes  
 - Start / Pause / Reset controls  
-- Simple visuals and a tomato mascot for fun  
+- Simple, clean visuals  
 
 ## Tech Stack
 
