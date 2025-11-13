@@ -1,6 +1,7 @@
 # Countdown Timer App for Android
 
-<img width="200" height="421" alt="Screenshot 2025-11-13 at 16 24 44" src="https://github.com/user-attachments/assets/92bda6ba-a5d5-45d6-96c4-675bb1e10f25" /> <img width="200" height="427" alt="Screenshot 2025-11-13 at 16 25 06" src="https://github.com/user-attachments/assets/d3e2b4c5-dfb4-4000-9b04-5265d9c4b57f" />
+<img width="200" height="426" alt="landingpage_" src="https://github.com/user-attachments/assets/f16f46d8-2e4e-4de5-a204-7b1f55e5b5d1" />  <img width="200" height="428" alt="pomodoro_" src="https://github.com/user-attachments/assets/5deb4944-a8bf-4f1a-8f52-aa1d36d07dd4" />
+
 
 
 
